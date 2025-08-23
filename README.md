@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-00E5FF?style=for-the-badge&logo=robotframework&logoColor=black" alt="Focus">
-  <img src="https://img.shields.io/badge/Location-India-FF1177?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Location-Ahmedabad, Gujarat-FF1177?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
   <img src="https://komarev.com/ghpvc/?username=darshilx07-cloud&label=Profile%20Scans&color=00E5FF&style=flat" alt="Profile Views" />
 </p>
 
