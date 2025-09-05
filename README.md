@@ -32,7 +32,7 @@
 - 👨‍💻 Explore projects 👉 <a href="https://github.com/darshilx07-cloud?tab=repositories">Repositories</a>
 - 💬 Ask me about **Machine Learning & Data Analytics**
 - 📫 Contact: **darshilmathur65@yahoo.com**
-- 📄 Resume 👉 <a href="https://drive.google.com/file/d/1WRRHUg5horjfLBocaXiUtiQMh2Yj9-ZJ/view?usp=sharing">Download</a>
+- 📄 Resume 👉 <a href="https://drive.google.com/file/d/1WRRHUg5horjfLBocaXiUtiQMh2Yj9-ZJ/view?usp=sharing">Click Here</a>
 - ⚡ Fun fact: *From driving cars at Maruti Suzuki 🚗 to driving insights with data 📊!*
 
 ---
