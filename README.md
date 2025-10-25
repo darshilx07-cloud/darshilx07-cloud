@@ -32,7 +32,7 @@
 - 👨‍💻 Explore projects 👉 <a href="https://github.com/darshilx07-cloud?tab=repositories">Repositories</a>
 - 💬 Ask me about **Machine Learning & Data Analytics**
 - 📫 Contact: **darshilmathur65@yahoo.com**
-- 📄 Resume 👉 <a href="https://drive.google.com/file/d/1WRRHUg5horjfLBocaXiUtiQMh2Yj9-ZJ/view?usp=sharing">Download</a>
+- 📄 Resume 👉 <a href="https://drive.google.com/drive/folders/1B7_19QEe8VMi1Bm7J6QDd8yB852dGKgX?usp=sharing">Click Here</a>
 - ⚡ Fun fact: *From driving cars at Maruti Suzuki 🚗 to driving insights with data 📊!*
 
 ---
@@ -52,22 +52,61 @@
 
 ---
 
-### ⚙️ Languages & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/SQL-FF1177?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/Power%20BI-FFB900?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=FF1177"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=FF1177"/>
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=00E5FF"/>
-</p>
+### ⚙️ Skils & Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI"/><br>Power BI
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="48" height="48" alt="Excel"/><br>Excel
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/pandas.png" width="48" height="48" alt="Pandas"/><br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/numpy.png" width="48" height="48" alt="NumPy"/><br>NumPy
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn"/><br>Scikit-learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/><br>Matplotlib
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="48" height="48" alt="Advanced Excel"/><br>Advanced Excel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/><br>Jupyter
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/tableau-software.png" width="48" height="48" alt="Tableau"/><br>Tableau
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats & Activity
+
+
+
+
+### 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshilx07-cloud&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=FF1177" alt="Top Languages" />
 </p>
