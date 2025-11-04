@@ -1,7 +1,5 @@
 <!-- 🤖 Futuristic & Animated GitHub Profile README for Darshil Mathur -->
 
-[![LinkedIn]([Connect with me on LinkedIn](https://in.linkedin.com/in/darshilmathur)
-
 <!-- ⚡ Cyber Futuristic Banner -->
 <p align="center">
   <img alt="Darshil Banner"
