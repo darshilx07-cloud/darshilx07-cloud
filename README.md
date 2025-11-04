@@ -1,6 +1,6 @@
 <!-- 🤖 Futuristic & Animated GitHub Profile README for Darshil Mathur -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darshil%20Mathur-blue?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/darshilmathur)
+[![LinkedIn]([Connect with me on LinkedIn](https://in.linkedin.com/in/darshilmathur)
 
 <!-- ⚡ Cyber Futuristic Banner -->
 <p align="center">
